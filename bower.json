@@ -1,0 +1,13 @@
+{
+    "name": "hourizer",
+    "version": "0.1.0",
+    "main": "lib/jquery.hourizer.js",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "jquery": "1.*"
+    }
+}
