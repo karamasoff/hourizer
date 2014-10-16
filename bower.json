@@ -1,13 +1,22 @@
 {
-    "name": "hourizer",
-    "version": "0.1.0",
+    "name": "jquery-hourizer",
+    "description": "A simple validator for HH:ii typed input fields.",
+    "licence": "BSD-4-Clause",
     "main": "lib/jquery.hourizer.js",
     "ignore": [
         "**/.*",
         "node_modules",
         "bower_components"
     ],
+    "keywords": ["jquery", "hour", "format", "validator"],
+    "authors": [
+        { "name": "Joel Poulin", "email": "joel@voilab.org", "homepage": "http://www.voilab.org" }
+    ],
     "dependencies": {
         "jquery": "1.*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/voilab/hourizer.git"
     }
 }
